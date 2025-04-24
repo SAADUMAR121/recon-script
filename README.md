@@ -51,7 +51,7 @@ chmod +x recon.sh
 Run the script using:
 
 ```bash
-./recon-script.sh
+./recon.sh
 ```
 
 Enter your target domain when prompted (e.g. `example.com`), and the script will do the rest.
