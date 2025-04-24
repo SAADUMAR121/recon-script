@@ -41,7 +41,7 @@ Clone the repository and give execution permission to the script:
 ```bash
 git clone https://github.com/SAADUMAR121/recon-script.git
 cd recon-script
-chmod +x recon-script.sh
+chmod +x recon.sh
 ```
 
 ---
